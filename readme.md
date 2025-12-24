@@ -1,5 +1,7 @@
 这是一个基于 **SiliconFlow (硅基流动)** API 和 **DuckDuckGo Search** 的纯 Python 技术实施方案。
 
+**API接口和openAI的接口兼容**
+
 ---
 
 # AI 自主规划长文生成系统技术方案 (SiliconFlow + DDGS 版)
