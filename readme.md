@@ -1,4 +1,4 @@
-这是一个基于 **SiliconFlow (硅基流动)** API 和 **DuckDuckGo Search** 的纯 Python 技术实施方案。本方案严格遵循您的新约束条件：**配图仅通过网络搜索获取**，并增加了备用爬虫机制。
+这是一个基于 **SiliconFlow (硅基流动)** API 和 **DuckDuckGo Search** 的纯 Python 技术实施方案。
 
 ---
 
